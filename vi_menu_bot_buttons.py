@@ -4,7 +4,7 @@ from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
 # Твой токен бота
-BOT_TOKEN = 7777551240:AAFOI03IWFYeinaqlG5UzNkWehyVAv4LU6M
+BOT_TOKEN = "7777551240:AAEFOt03IYMEYneaigL65UzNkNehyV4wALuM"
 
 # Логика подбора меню (заглушка)
 def get_menu():
